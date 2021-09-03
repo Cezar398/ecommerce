@@ -1,5 +1,6 @@
 # Ecommerce
 Flask
+JavaScript(@dhoreth)
 
 ## XAMPP (Application)
 > Change project root directory:
